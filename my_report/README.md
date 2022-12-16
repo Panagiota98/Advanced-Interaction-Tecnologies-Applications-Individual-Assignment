@@ -52,6 +52,10 @@ https://github.com/Panagiota98/Advanced-Interaction-Tecnologies-Applications-Ind
 
 ![pic2_3](https://user-images.githubusercontent.com/115812145/207975406-3e10181a-cae9-48f3-abc5-e9c859166859.JPG)
 
+4. Επεξεργάστηκα την άσκηση 16-5 για την οποία δημιούργησα κλάση snake με τη βοήθεια του παραδείγματος 9-8, αλλά αντί για την τελευταία θέση του ποντικιού να πιάνει την θέση του χρώματος. Επιπλέον, ρύθμισα λίγο το μέγεθος και το χρώμα της έλλειψης που ήθελα να σχηματίζει το φιδάκι. 
+
+![pic2_4](https://user-images.githubusercontent.com/115812145/208007783-e32d2adb-26e3-41a3-97a3-3955aa55fdcf.JPG)
+
 
 # 3rd Deliverable 
 
