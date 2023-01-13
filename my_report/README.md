@@ -59,6 +59,32 @@ https://github.com/Panagiota98/Advanced-Interaction-Tecnologies-Applications-Ind
 
 # 3rd Deliverable 
 
+Για το 0 έβαλα να φορτώνει την εικόνα με το τροπικό πουλί.
+![3_0](https://user-images.githubusercontent.com/115812145/212372526-93e54af0-c0c5-40d4-9258-df962a1214c9.PNG)
+
+Για το 1 φορτώνει την εικόνα με τον σκύλο.
+![3_1](https://user-images.githubusercontent.com/115812145/212376123-fe774867-c8b9-497a-8e10-b549d420aa90.PNG)
+
+Έφτιαξα τον κωδικα έτσι ώστε όταν περιστρέφω το fiducial να περιστρέφεται και η εικόνα κατά ανάλογες μοίρες.
+![3_1_rotate](https://user-images.githubusercontent.com/115812145/212376159-600a6db9-5b52-4b71-94bb-dfc20258b66f.PNG)
+
+Για το 2 έχω βάλει να φορτώνει τη γάτα.
+![3_2](https://user-images.githubusercontent.com/115812145/212372652-d23ebf36-9062-436f-a96b-1a3cf7050a4d.PNG)
+
+Ωστόσο, προσάρμοσα τον κώδικα έτσι ώστε όταν περιστρέφω το fiducial να μεγενθύνει την εικόνα.
+![3_2_megethynsi](https://user-images.githubusercontent.com/115812145/212372676-849062c8-14ab-4d22-9c3d-0624c648b6be.PNG)
+
+Για το 3 πάλι φορτώνει την εικόνα με τη γάτα.
+![3_3](https://user-images.githubusercontent.com/115812145/212372760-cbed3101-8891-4065-b0bb-6bc3c476df97.PNG)
+
+Όμως, το έχω φτιάξει ώστε όταν περιστρέφω το 3ο fiducial να αλλάζει την απόχρωση της εικόνας
+![3_3_blue](https://user-images.githubusercontent.com/115812145/212372792-17209b47-6d01-4b25-bea7-d2367d9f3bc4.PNG)
+
+Γενικώς, επιτυγχάνεται η ταυτόχρονη αναγνώριση των fiducials και η φόρτωση των αντίστοιχων εικόνων, ωστόσο ίσως χρειαζόταν λίγο καλιμπράρισμα της reacTIVision αρχικά.
+![3_both](https://user-images.githubusercontent.com/115812145/212372835-6cc08f67-fa0c-4102-851e-f9c8f89069bf.PNG)
+
+
+
 
 # Bonus 
 
