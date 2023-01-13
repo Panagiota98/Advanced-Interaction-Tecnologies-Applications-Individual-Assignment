@@ -65,6 +65,7 @@ void setup()
 
   img1 = loadImage("birds.jpg"); // 1o zhtoumeno na emfanizei eikona
   img2 = loadImage("cat.jpeg");
+  img3 = loadImage("dog.jpg");
 
   imageWidth = img2.width; // orizw arxikes times tis diastaseis tis eikonas
   imageHeight = img2.height; //orizw arxikes times tis diastaseis tis eikonas
@@ -110,7 +111,7 @@ void draw()
     if (tobj.getSymbolID()==1) {  //an o kwdikos einai to 1 fortwse auth thn eikona
       translate(tobj.getScreenX(width), tobj.getScreenY(height));
       rotate (tobj.getAngle());
-      image(img2, 0, 0, imageWidth, imageHeight); 
+      image(img3, 0, 0, imageWidth, imageHeight); 
       //emfanisou sto shmeio 0,0
       //an evaza 80, 60 ry8mizw to mege8os ths eikonas, 
       // alla gia na ginetai aytomata vazw metavlhtes imageWidth kai imageHeight
