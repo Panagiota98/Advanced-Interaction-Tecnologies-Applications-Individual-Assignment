@@ -82,6 +82,7 @@ https://github.com/Panagiota98/Advanced-Interaction-Tecnologies-Applications-Ind
 
 Γενικώς, επιτυγχάνεται η ταυτόχρονη αναγνώριση των fiducials και η φόρτωση των αντίστοιχων εικόνων, ωστόσο ίσως χρειαζόταν λίγο καλιμπράρισμα της reacTIVision αρχικά.
 ![3_both](https://user-images.githubusercontent.com/115812145/212372835-6cc08f67-fa0c-4102-851e-f9c8f89069bf.PNG)
+![3_all](https://user-images.githubusercontent.com/115812145/212377403-f055e28e-3a33-4388-9812-d716df26f62a.PNG)
 
 
 
